@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>Form Input Name</title>
+    </head>
+    <body>
+        <h2>Masukkan Nama Anda</h2>
+        <form action="display.php" method="post">
+            <label>Nama:</label>
+            <input type="text" name="name" required>
+            <button type"submit">Kirim</button>
+        </form>
+
+    </body>
+</html>
