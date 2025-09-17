@@ -34,8 +34,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
  Default accounts
 
- - Admin: admin@example.com / password
- - Student: student@example.com / password
+ - Admin: furina@example.com / furina
+ - Student: hutao@example.com / hutao
 
  Features
 
